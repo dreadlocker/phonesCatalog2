@@ -1,3 +1,4 @@
+# https://dreadlocker.github.io/phonesCatalog2/
 * Ot osnovniq VUE proekt, v router.js -   base: process.env.BASE_URL + 'phonesCatalog2' (tova e imeto na proekta v GitHub)
 * Ot osnovniq VUE proekt, npm run build
 * Ot osnovniq VUE proekt, kopirame sudurjanieto ot 'dist' papkata
