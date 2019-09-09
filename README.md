@@ -9,6 +9,7 @@
 * V app.5b14c494.js, '"js/"' go promenqme na '"phonesCatalog2/js/"'
 * V app.5b14c494.js, '"css/"' go promenqme na '"phonesCatalog2/css/"'
 * V chunk-616c9644.4409184f.js, '"img/' gi promenqme na '"phonesCatalog2/img/'
+* V app.8a3e6253.js(ot dryg proekt), ako ima({e.exports=n.p+...) 'media/'go promenqme na '"phonesCatalog2/media/"'
 # 
 * ROUTE 404 NE RABOTI
 * https://dreadlocker.github.io/phonesCatalog2/store, ako otidem do /store i refre6nem - gurmi
